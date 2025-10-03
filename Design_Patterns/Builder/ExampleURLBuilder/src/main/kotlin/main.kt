@@ -1,9 +1,9 @@
 import com.example.urlbuilder.*
 
 fun main() {
-    val urlbuilder = URLBuilder()
+    val urlBuilder = URLBuilder()
 
-    val url1 = urlbuilder.setProtocol("http")
+    val url1 = urlBuilder.setProtocol("http")
         .setHostname("newwebsite")
         .setPort("43")
         .addPath("example")
@@ -15,8 +15,8 @@ fun main() {
 
     println(url1)
 
-    val urldirector = URLManager(urlbuilder)
-    val url2 = urldirector.buildSearchUrl(
+    val urlDirector = URLManager(urlBuilder)
+    val url2 = urlDirector.buildSearchUrl(
         host = "example",
         query = "ping",
         page = 100
