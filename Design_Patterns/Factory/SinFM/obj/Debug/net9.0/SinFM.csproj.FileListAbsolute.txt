@@ -1,0 +1,14 @@
+C:\Users\Erick Rodríguez\Documents\TEST2\SinFM\obj\Debug\net9.0\SinFM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick Rodríguez\Documents\TEST2\SinFM\obj\Debug\net9.0\SinFM.AssemblyInfoInputs.cache
+C:\Users\Erick Rodríguez\Documents\TEST2\SinFM\obj\Debug\net9.0\SinFM.AssemblyInfo.cs
+C:\Users\Erick Rodríguez\Documents\TEST2\SinFM\obj\Debug\net9.0\SinFM.csproj.CoreCompileInputs.cache
+C:\Users\Erick Rodríguez\Documents\TEST2\SinFM\bin\Debug\net9.0\SinFM.exe
+C:\Users\Erick Rodríguez\Documents\TEST2\SinFM\bin\Debug\net9.0\SinFM.deps.json
+C:\Users\Erick Rodríguez\Documents\TEST2\SinFM\bin\Debug\net9.0\SinFM.runtimeconfig.json
+C:\Users\Erick Rodríguez\Documents\TEST2\SinFM\bin\Debug\net9.0\SinFM.dll
+C:\Users\Erick Rodríguez\Documents\TEST2\SinFM\bin\Debug\net9.0\SinFM.pdb
+C:\Users\Erick Rodríguez\Documents\TEST2\SinFM\obj\Debug\net9.0\SinFM.dll
+C:\Users\Erick Rodríguez\Documents\TEST2\SinFM\obj\Debug\net9.0\refint\SinFM.dll
+C:\Users\Erick Rodríguez\Documents\TEST2\SinFM\obj\Debug\net9.0\SinFM.pdb
+C:\Users\Erick Rodríguez\Documents\TEST2\SinFM\obj\Debug\net9.0\SinFM.genruntimeconfig.cache
+C:\Users\Erick Rodríguez\Documents\TEST2\SinFM\obj\Debug\net9.0\ref\SinFM.dll

@@ -1,0 +1,21 @@
+C:\Users\Erick Rodríguez\Documents\TEST2\ConFM\bin\Debug\net9.0\ConFM.exe
+C:\Users\Erick Rodríguez\Documents\TEST2\ConFM\bin\Debug\net9.0\ConFM.deps.json
+C:\Users\Erick Rodríguez\Documents\TEST2\ConFM\bin\Debug\net9.0\ConFM.runtimeconfig.json
+C:\Users\Erick Rodríguez\Documents\TEST2\ConFM\bin\Debug\net9.0\ConFM.dll
+C:\Users\Erick Rodríguez\Documents\TEST2\ConFM\bin\Debug\net9.0\ConFM.pdb
+C:\Users\Erick Rodríguez\Documents\TEST2\ConFM\obj\Debug\net9.0\ConFM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick Rodríguez\Documents\TEST2\ConFM\obj\Debug\net9.0\ConFM.AssemblyInfoInputs.cache
+C:\Users\Erick Rodríguez\Documents\TEST2\ConFM\obj\Debug\net9.0\ConFM.AssemblyInfo.cs
+C:\Users\Erick Rodríguez\Documents\TEST2\ConFM\obj\Debug\net9.0\ConFM.csproj.CoreCompileInputs.cache
+C:\Users\Erick Rodríguez\Documents\TEST2\ConFM\obj\Debug\net9.0\ConFM.dll
+C:\Users\Erick Rodríguez\Documents\TEST2\ConFM\obj\Debug\net9.0\refint\ConFM.dll
+C:\Users\Erick Rodríguez\Documents\TEST2\ConFM\obj\Debug\net9.0\ConFM.pdb
+C:\Users\Erick Rodríguez\Documents\TEST2\ConFM\obj\Debug\net9.0\ConFM.genruntimeconfig.cache
+C:\Users\Erick Rodríguez\Documents\TEST2\ConFM\obj\Debug\net9.0\ref\ConFM.dll
+C:\Users\zs23017343\Documents\TEST2.1\ConFM\obj\Debug\net9.0\ConFM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zs23017343\Documents\TEST2.1\ConFM\obj\Debug\net9.0\ConFM.AssemblyInfoInputs.cache
+C:\Users\zs23017343\Documents\TEST2.1\ConFM\obj\Debug\net9.0\ConFM.AssemblyInfo.cs
+C:\Users\zs23017343\Documents\TEST2.1\ConFM\obj\Debug\net9.0\ConFM.csproj.CoreCompileInputs.cache
+C:\Users\zs23017343\Documents\TEST2.1\ConFM\obj\Debug\net9.0\ConFM.dll
+C:\Users\zs23017343\Documents\TEST2.1\ConFM\obj\Debug\net9.0\refint\ConFM.dll
+C:\Users\zs23017343\Documents\TEST2.1\ConFM\obj\Debug\net9.0\ConFM.pdb
